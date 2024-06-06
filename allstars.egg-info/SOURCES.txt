@@ -1,0 +1,9 @@
+README.md
+setup.py
+allstars.egg-info/PKG-INFO
+allstars.egg-info/SOURCES.txt
+allstars.egg-info/dependency_links.txt
+allstars.egg-info/top_level.txt
+allstars_package/__init__.py
+allstars_package/tests/__init__.py
+allstars_package/tests/test_main.py

@@ -1,0 +1,7 @@
+setup.py
+allstars.egg-info/PKG-INFO
+allstars.egg-info/SOURCES.txt
+allstars.egg-info/dependency_links.txt
+allstars.egg-info/top_level.txt
+tests/__init__.py
+tests/test_main.py
